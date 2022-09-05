@@ -16,10 +16,9 @@ class Portfolio extends React.Component {
           <div className="row">
             <div className="col-sm-12">
               <div className="title-box text-center">
-                <h3 className="title-a">Portfolio</h3>
+                <h3 className="title-a">My Projects</h3>
                 <p className="subtitle-a">
-                  Incididunt nostrud id aute culpa excepteur pariatur consequat
-                  elit culpa nulla enim anim incididunt.
+                  Here are the some of the projects I worked on
                 </p>
                 <div className="line-mf"></div>
               </div>
@@ -149,7 +148,7 @@ class Portfolio extends React.Component {
                 </a>
               </div>
             </div>
-            <div className="col-md-4">
+            {/* <div className="col-md-4">
               <div className="work-box">
                 <a href={stock} data-lightbox="gallery-todo">
                   <div className="work-img">
@@ -163,7 +162,7 @@ class Portfolio extends React.Component {
                           <span className="w-ctegory">
                             HTML5 CSS3 Bootstrap Webpack ReactJS
                           </span>
-                          {/*} / <span className="w-date">18 Sep. 2018</span>*/}
+                            <span className="w-date">18 Sep. 2018</span>
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -210,8 +209,8 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
               </div>
-            </div>
-            <div className="col-md-4">
+            </div> */}
+            {/* <div className="col-md-4">
               <div className="work-box">
                 <a href={stock} data-lightbox="gallery-medlingos">
                   <div className="work-img">
@@ -271,8 +270,8 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
               </div>
-            </div>
-            <div className="col-md-4">
+            </div> */}
+            {/* <div className="col-md-4">
               <div className="work-box">
                 <a href={stock} data-lightbox="gallery-smth">
                   <div className="work-img">
@@ -330,8 +329,8 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
               </div>
-            </div>
-            <div className="col-md-4">
+            </div> */}
+            {/* <div className="col-md-4">
               <div className="work-box">
                 <a href={stock} data-lightbox="gallery-mf">
                   <div className="work-img">
@@ -391,7 +390,7 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>

@@ -4,22 +4,22 @@ import myImage from "../img/myImage.png";
 class About extends React.Component {
   constructor() {
     super();
+    // All the skills
     this.state = {
       skills: [
-        { id: "HTML5_skill", content: "HTML5", porcentage: "80%", value: "80" },
-        { id: "CSS3_skill", content: "CSS3", porcentage: "75%", value: "75" },
+        { id: "HTML5_skill", content: "HTML5", porcentage: "60%", value: "60" },
+        { id: "CSS3_skill", content: "CSS3", porcentage: "50%", value: "50" },
         {
           id: "JavaScript_skill",
           content: "JavaScript",
-          porcentage: "90%",
-          value: "90"
+          porcentage: "70%",
+          value: "70"
         },
-        { id: "PHP_skill", content: "PHP", porcentage: "70%", value: "70" },
         {
           id: "ReactJS_skill",
           content: "ReactJS",
-          porcentage: "80%",
-          value: "80"
+          porcentage: "60%",
+          value: "60"
         },
         {
           id: "Python_skill",
@@ -28,23 +28,23 @@ class About extends React.Component {
           value: "75"
         },
         {
-          id: "VanillaJS_skill",
-          content: "VanillaJS",
-          porcentage: "85%",
-          value: "85"
-        },
-        {
-          id: "Wordpress_skill",
-          content: "Wordpress",
+          id: "C++",
+          content: "C++",
           porcentage: "80%",
           value: "80"
+        },
+        {
+          id: "Pandas",
+          content: "Pandas_skill",
+          porcentage: "74%",
+          value: "74"
         }
       ],
       about_me: [
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Hello I am Shubhanshu Agrawal. I am currently a 3rd Student in International Institute Of Information Technology. I was born in Rajasthan and have moved around a lot in my whole life. ."
         },
         {
           id: "second-p-about",

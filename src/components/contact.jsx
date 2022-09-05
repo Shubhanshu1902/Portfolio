@@ -21,7 +21,7 @@ class Contact extends React.Component {
                       </div>
                       <div>
                         <form
-                          action="https://formspree.io/xdoeonlo"
+                          action="https://formspree.io/f/xjvzgyyl"
                           method="POST"
                           className="contactForm"
                         >
@@ -117,7 +117,7 @@ class Contact extends React.Component {
                       </div>
                       <div className="socials">
                         <ul>
-                          <li>
+                          {/* <li>
                             <a
                               href=""
                               target="_blank"
@@ -127,10 +127,10 @@ class Contact extends React.Component {
                                 <i className="ion-social-codepen"></i>
                               </span>
                             </a>
-                          </li>
+                          </li> */}
                           <li>
                             <a
-                              href=""
+                              href="https://github.com/Shubhanshu1902"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -141,7 +141,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://www.linkedin.com/in/shubhanshu-agrawal/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
