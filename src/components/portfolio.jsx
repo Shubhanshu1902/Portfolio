@@ -34,10 +34,10 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">Attack On Ghost</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Attack On Ghost
+                            C++, SDL
                           </span>
                         </div>
                       </div>
