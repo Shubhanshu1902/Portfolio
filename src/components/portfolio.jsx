@@ -37,7 +37,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Lorem Ipsum</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap ReactJS
+                            Attack On Ghost
                           </span>
                         </div>
                       </div>
